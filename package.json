@@ -9,7 +9,7 @@
     ],
     "scripts": {
         "build": "tsc",
-        "publish": "np --no-cleanup",
+        "release": "np --no-cleanup",
         "test": "jest",
         "test:watch": "jest --watch"
     },

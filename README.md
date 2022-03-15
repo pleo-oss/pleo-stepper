@@ -6,4 +6,4 @@ Build: `npm run build`
 
 Tet: `npm run test`
 
-Publish:`npm run publish`
+Publish to npm: `npm run release`
