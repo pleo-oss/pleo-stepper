@@ -1,6 +1,6 @@
 {
     "name": "pleo-stepper",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "A simple state machine for complex UI flows",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
